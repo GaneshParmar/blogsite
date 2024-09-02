@@ -1,5 +1,3 @@
-Here's an updated version of your `README.md` file that reflects the changes and details you specified:
-
 ```markdown
 # Blogsite
 
@@ -27,7 +25,7 @@ To run this project on your local server, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/blogsite.git
+   git clone https://github.com/GaneshParmar/blogsite.git
    cd blogsite
    ```
 
@@ -43,7 +41,7 @@ To run this project on your local server, follow these steps:
    npm run dev
    ```
 
-   Open your browser and navigate to `http://localhost:3000` to view the application.
+   Open your browser and navigate to `http://localhost:5173` to view the application.
 
 ## Usage
 
