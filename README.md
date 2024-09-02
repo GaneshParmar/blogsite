@@ -1,4 +1,3 @@
-markdown
 # Blogsite
 
 This is a React application built with Vite that allows users to manage blogs. It uses Redux Toolkit for state management and localStorage to persist data.
