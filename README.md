@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Blogsite
 
 This is a React application built with Vite that allows users to manage blogs. It uses Redux Toolkit for state management and localStorage to persist data.
@@ -23,11 +23,9 @@ This is a React application built with Vite that allows users to manage blogs. I
 To run this project on your local server, follow these steps:
 
 1. **Clone the Repository**
-```
-    ```bash
-   git clone https://github.com/GaneshParmar/blogsite.git
-   ```
+
    ```bash
+   git clone https://github.com/GaneshParmar/blogsite.git
    cd blogsite
    ```
 
