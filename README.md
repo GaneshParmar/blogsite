@@ -26,6 +26,8 @@ To run this project on your local server, follow these steps:
 
    ```bash
    git clone https://github.com/GaneshParmar/blogsite.git
+   ```
+   ```bash
    cd blogsite
    ```
 
