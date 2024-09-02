@@ -23,8 +23,8 @@ This is a React application built with Vite that allows users to manage blogs. I
 To run this project on your local server, follow these steps:
 
 1. **Clone the Repository**
-
-   ```bash
+```
+    ```bash
    git clone https://github.com/GaneshParmar/blogsite.git
    ```
    ```bash
