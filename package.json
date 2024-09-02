@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage" :"https://github.com/GaneshParmar/blogsite",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -11,7 +12,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://ganeshparmar.github.io/blogsite",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "dayjs": "^1.11.13",
